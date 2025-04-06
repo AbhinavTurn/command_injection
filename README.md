@@ -25,3 +25,12 @@ Uses multi-threading for faster scanning.
 python commandinjection.py
 
 Enter parameters to test (comma-separated): search,query
+
+
+Use a Different OOB Service
+
+You can use Burp Collaborator or CanaryTokens for testing:
+
+    Burp Collaborator: Generate a unique Collaborator URL from Burp Suite.
+
+    CanaryTokens: Use https://canarytokens.org to generate an OOB token.
